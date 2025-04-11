@@ -28,6 +28,5 @@ try:
             print("Result:", round(result, 3))
     else:
         print(f"{operator} is not a valid operator.")
-
 except ValueError:
     print("Please enter valid numbers.")
