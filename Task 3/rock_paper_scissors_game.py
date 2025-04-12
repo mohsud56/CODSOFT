@@ -33,3 +33,4 @@ while running:
         running = False
 
 print("\nThanks for playing!")
+print("\nHope to see you soon!")
