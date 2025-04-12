@@ -35,7 +35,7 @@ def main():
                 print("Invalid task number.")
 
         elif choice == '4':
-            print("Exiting the To-Do List. ")
+            print("Exiting the To-Do List... Goodbye! ")
             break
 
         else:
