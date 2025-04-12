@@ -3,7 +3,7 @@
 This is a simple command-line Rock-Paper-Scissors game written in Python.  
 The user plays against the computer, and the scores are tracked for each round.
 
-## Features
+## includes
 
 - User chooses between **rock**, **paper**, or **scissors**
 - Computer randomly selects its choice
