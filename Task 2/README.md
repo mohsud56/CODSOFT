@@ -2,7 +2,7 @@
 
 This is a simple Python program that generates strong, random passwords.
 
-### Features
+### includes
 
 - Generates a password of user-defined length
 - Includes uppercase, lowercase, numbers, and special characters
