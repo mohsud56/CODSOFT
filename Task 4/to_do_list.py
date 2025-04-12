@@ -35,11 +35,11 @@ def main():
                 print("Invalid task number.")
 
         elif choice == '4':
-            print("Exiting the To-Do List... Goodbye! ")
+            print("Exiting the To-Do List... Goodbye!")
             break
 
         else:
-            print("Invalid choice. Please try again from (1-4). ")
+            print("Invalid choice. Please try again from (1-4).")
 
 if __name__ == "__main__":
     main()
